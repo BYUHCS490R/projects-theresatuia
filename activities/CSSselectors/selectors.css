@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif, arial, helvetica;
+}
+header h1 {
+    color:blueviolet;
+}
+
+p {
+    color:red;
+}
+
+#celestial {
+    color:black;
+}
+
+#good {
+    color:green; font-size:larger;
+}
+.ok {
+    color:blue
+}
+.bigger {
+    font-size:larger
+}
+.diff {
+    font-style:italic
+}
