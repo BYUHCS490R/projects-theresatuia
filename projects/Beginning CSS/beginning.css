@@ -1,0 +1,28 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 95%;
+    color:#134686;
+    background-color: #FDF4E3;
+
+}
+body nav a{
+    color: #FEB21A
+}
+main h4 {
+    color: #ED3F27
+}
+footer {
+    color: #FEB21A
+}
+p a{
+    color:#FEB21A
+}
+#bigger {
+    font-size: 105%;
+}
+.italy{
+    font-style: italic
+}
+.boxing{
+    color: orangered;
+}
