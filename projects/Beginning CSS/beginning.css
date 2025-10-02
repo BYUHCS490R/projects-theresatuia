@@ -1,5 +1,5 @@
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 95%;
     color:#134686;
     background-color: #FDF4E3;
@@ -9,13 +9,17 @@ body nav a{
     color: #FEB21A
 }
 main h4 {
+    color: #ED3F27;
+    font-size: 140%
+}
+header h1 {
     color: #ED3F27
 }
 footer {
     color: #FEB21A
 }
 p a{
-    color:#FEB21A
+    color:#ED3F27
 }
 #bigger {
     font-size: 105%;
@@ -25,4 +29,10 @@ p a{
 }
 .boxing{
     color: orangered;
+}
+.deemph{
+    color:#FEB21A
+}
+#emph{
+    color: #ED3F27
 }
