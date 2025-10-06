@@ -1,0 +1,10 @@
+body {
+    background-image: url(greenbkg.jpg);
+    background-color: green;
+    color: bisque
+}
+nav {
+    background-image: url(FrogandToad.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
