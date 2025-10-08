@@ -1,0 +1,17 @@
+.current {
+    color: black
+}
+nav a {
+    color: orangered;
+    font-weight: bolder;
+}
+body {
+    background-image: url(bckimg.png);
+    color:yellow;
+    background-color:gray
+}
+.link {
+    background-image: url(link.png);
+    background-repeat: no-repeat;
+    background-position: right
+}
