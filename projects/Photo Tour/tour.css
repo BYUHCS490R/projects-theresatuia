@@ -1,17 +1,30 @@
 .current {
-    color: black
+    color: gray
+}
+header{
+    background-image: url(logored.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 nav a {
-    color: orangered;
+    color: rgb(255, 38, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bolder;
 }
 body {
-    background-image: url(bckimg.png);
-    color:yellow;
-    background-color:gray
+    background-image: url(triangle.png);
+    background-color: rgb(63, 63, 63);
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellow
 }
-.link {
-    background-image: url(link.png);
-    background-repeat: no-repeat;
-    background-position: right
+.main {
+    background-color: rgb(97, 0, 136);
+    color: gold
+}
+header{
+    font-family: 'Times New Roman', Times, serif
+}
+ul {
+    list-style-image: url(sword.png);
 }
