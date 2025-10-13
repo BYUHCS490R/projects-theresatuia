@@ -1,0 +1,29 @@
+body{
+    font-family:'Times New Roman', Times, serif
+}
+.seal {
+    border: thick solid pink;
+    width:100pc;
+    float:left
+}
+.stop{
+    clear:both
+}
+.hammer{
+    position: absolute;
+    Top: 0px;
+    margin: 0;
+    left:0px;
+    z-index: -1;
+    display: none;
+}
+nav a{
+    display: inline-block;
+    padding: 40px;
+    background-color: pink;
+    border-bottom: solid hotpink;
+    text-decoration: none;
+}
+nav a:hover{
+    text-decoration: underline;
+}
